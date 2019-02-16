@@ -35,3 +35,4 @@
 ####CSS length and units
 
 1. **CSS length and units MDN** - https://developer.mozilla.org/en-US/docs/Web/CSS/length
+2. **Fluid Typography** - https://github.com/xurxe/fluid-typography-tutorial
