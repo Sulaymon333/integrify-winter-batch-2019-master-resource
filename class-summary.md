@@ -6,3 +6,4 @@
 4. **28.01.2019 by Phuc** - https://docs.google.com/document/d/1O7OGsO0zbTPkReTrSTeEHXssNsAOjCTVnjZxJ2mhrQs/edit
 5. **29.01.2019 by Adrien** - https://docs.google.com/document/d/10f5GHzvipw_Vq6YEkyAMWTcO-lq7oON0pHCRGAcfLxk/edit
 6. **31.01.2019 by Kunjan** - https://docs.google.com/document/d/1VOwHqtwZre9vQjkDtjGU3PwqI_V-L5m-tGneOQLAp_U/edit
+7. **1.2 - 8.2.2019 by André** - https://docs.google.com/document/d/13c9IyKdFgoV3CZBUBSjfDKXiOQC2I0en2A-BpWtv7z4/edit
