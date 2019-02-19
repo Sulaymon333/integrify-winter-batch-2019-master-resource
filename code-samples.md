@@ -4,3 +4,4 @@
 2. **CSS Speech Bubbles** - https://codingislove.com/css-speech-bubbles/
 3. **CSS Shapes** - https://integrifyacademy.slack.com/files/U84D1G1K4/FFYKVRL1K/css_shapes.html
 4. **Typing effect by Mostafa** - https://integrifyacademy.slack.com/files/UFKN9NB8F/FFWQELB8W/typingeffect.html
+5. **Generate reandom pictures using Unspalsh api by Evans** - https://integrifyacademy.slack.com/files/UFJFQ2ASG/FG8DU15E1/generate_random_images__unsplash.pl
