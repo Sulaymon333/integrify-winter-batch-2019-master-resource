@@ -30,7 +30,7 @@
 5. a-quick-introduction-to-block-element-modifiers-bem-9df46d29b64c
 6. **CSS Selector Reference W3 School** - https://www.w3schools.com/cssref/css_selectors.asp
 7. **CSS selectors MDN** https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors
-8. **CSS Notes For Professionals pdf files** - https://integrifyacademy.slack.com/files/UFKN9NB8F/FFMQRC4E8/cssnotesforprofessionals.pdf
+8. **CSS Notes For Professionals pdf file** - https://integrifyacademy.slack.com/files/UFKN9NB8F/FFMQRC4E8/cssnotesforprofessionals.pdf
 
 ####CSS length and units
 

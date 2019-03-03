@@ -21,6 +21,7 @@
 2. **Vs Live Share** - https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare
 3. **VSCode keyboard shortcuts macos** - https://integrifyacademy.slack.com/files/UFJHFQ0CU/FFZKSGRHR/keyboard-shortcuts-macos.pdf
 4. **VsCode Keyboard shortcuts windows** - https://integrifyacademy.slack.com/files/UFJHFQ0CU/FFZ56RFB3/keyboard-shortcuts-windows.pdf
+5. **Subscript and superscript vs code extension** - https://marketplace.visualstudio.com/items?itemName=quiever.supersub
 
 #### Others general links
 
@@ -29,8 +30,10 @@
 3. **Gravatar** - https://en.gravatar.com/
 4. **Kahoot Game by Evans** https://create.kahoot.it/k/618f3c56-32fa-4da0-b3e4-9b7e365d1867
 5. **Markup validator W3C** - https://validator.w3.org/
+6. **History search - chrome extension** - https://historysearch.com/
 
-#### Hackathon
+#### Hackathon / Interview
 
 1. **Ultrahack** - https://ultrahack.org/ultrahack2019sprint1/
 2. **Nordic Health Hackathon** - https://nordichealthhackathon.com/
+3. **Front end interview handbook** - https://github.com/yangshun/front-end-interview-handbook/blob/master/README.md

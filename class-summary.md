@@ -8,3 +8,5 @@
 6. **31.01.2019 by Kunjan** - https://docs.google.com/document/d/1VOwHqtwZre9vQjkDtjGU3PwqI_V-L5m-tGneOQLAp_U/edit
 7. **1.2 - 8.2.2019 by André** - https://docs.google.com/document/d/13c9IyKdFgoV3CZBUBSjfDKXiOQC2I0en2A-BpWtv7z4/edit
 8. **14.02.2019 by Cherry** - https://docs.google.com/document/d/1T9KDOVX7xJDf72WUeDckCrktYSbERAXCl3NNSKJIpmQ/edit#
+9. **18.02.2019 by Xurxe** - https://integrifyacademy.slack.com/files/UFHUB2GAU/FGCSXUQNB/studysync_18_feb_2019.txt _Detailed note_ --> https://github.com/xurxe/Integrify-0-sandbox/blob/master/js/script.js
+10. **20.02.2019 by Masood** - https://integrifyacademy.slack.com/files/UFKN6KQAK/FGBPPGMNX/todaylesson.txt
