@@ -5,3 +5,7 @@
 3. **CSS Shapes** - https://integrifyacademy.slack.com/files/U84D1G1K4/FFYKVRL1K/css_shapes.html
 4. **Typing effect by Mostafa** - https://integrifyacademy.slack.com/files/UFKN9NB8F/FFWQELB8W/typingeffect.html
 5. **Generate reandom pictures using Unspalsh api by Evans** - https://integrifyacademy.slack.com/files/UFJFQ2ASG/FG8DU15E1/generate_random_images__unsplash.pl
+6. **World country list project by Phuc** - https://stevephuc.github.io/Mini-Project-Javascript/4-worldCountryList/index.html
+7. **World Countries data from API by Asabeneh** - https://github.com/Asabeneh/world-countries-data-api
+8. **World countries data by Asabeneh** - https://github.com/Asabeneh/world-countries-data
+9. **Account balance by Asabeneh** - https://github.com/Asabeneh/account-balance-js

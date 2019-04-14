@@ -6,3 +6,5 @@
 4. **Accessible Web design by Xurxe** - https://docs.google.com/presentation/d/1N412OH3sI0zPHA9HV128l6jpQObNhVeGXWZLqgWkGtQ/edit#slide=id.g35f391192_00
 5. **Box Modeling in Web design by Mostafa** - https://integrifyacademy.slack.com/files/UFKN9NB8F/FFM9VTYV6/presentation1.pptx
 6. **Tips to make you better at learning programming by Johanna** - https://docs.google.com/presentation/d/1DNoJ1urCQffypOj_XDRZXYYu9MybrtMn1NQV_QNsn24/edit#slide=id.p
+
+

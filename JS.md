@@ -19,3 +19,21 @@
 17. **Practice coding challenges** - https://www.codewars.com/
 18. **JavaScript Tutorial - pdf file** - https://integrifyacademy.slack.com/files/UFKN6KQAK/FGAHH18DS/javascript_tutorial.pdf
 19. **Reserved words in JavaScript** - https://integrifyacademy.slack.com/files/UFKN6KQAK/FGBF2QPS9/image_from_ios.png
+20. **Array methods (map) my MDN** - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map
+21. **Higher order functions & Arrays** - https://www.youtube.com/watch?v=rRgD1yVwIvE&feature=youtu.be
+22. **Practice with higher order functions** - https://integrifyacademy.slack.com/files/UFKN9NB8F/FGNLXCFL0/testindex.html
+23. **Object prototypes** - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/prototype
+24. **Array Map, Filter and Reduce in JS** - https://atendesigngroup.com/blog/array-map-filter-and-reduce-js
+25. **Create custom keyboard accessible checkboxes** - https://dev.to/lkopacz/create-custom-keyboard-accessible-checkboxes-2036
+26. **Working with JSON** - (https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON), (https://www.w3schools.com/js/js_json.asp)
+27. **JSON placeholder** - https://jsonplaceholder.typicode.com/posts
+28. **Reading and copying selected text to clipboard** - http://javascriptkit.com/javatutors/copytoclipboard.shtml
+29. **JavaScript Sorting Arrays** - https://www.w3schools.com/js/js_array_sort.asp
+30. **Sets in JS by Sabe.io** - https://sabe.io/classes/javascript/sets
+31. **Maps in JS by Sabe.io** - https://sabe.io/classes/javascript/maps
+32. **Object​.prototype​.has​OwnProperty() by MDN** - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/hasOwnProperty
+33. **Fetch API** - https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
+34. **Chart using HTML, CSS & JS** - https://asabeneh.github.io/charts/
+35. **Web Storage API by MDN** - https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API
+36. **JS Classes by Sabe.io** - https://sabe.io/classes/javascript/classes
+37. **JS Classes by MSN** - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes
